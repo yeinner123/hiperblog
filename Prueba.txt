@@ -1,0 +1,5 @@
+Este archivo es un archivo de prueba creado para practicar el manejo de GIT.
+
+Desarrollado por Yeinner123
+
+Solo es para practicar y probar.
