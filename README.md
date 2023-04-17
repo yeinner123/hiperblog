@@ -11,4 +11,5 @@ Este solo es una prueba que estoy haciendo para el curso profesional de Git y Gi
 
 *Aporte creado por: David Behar. en Platzi*
 
+*Creado por el increible Platzi Team*
 
