@@ -9,7 +9,11 @@ Este solo es una prueba que estoy haciendo para el curso profesional de Git y Gi
 
 - Los README.md pueden estar en todas las carpetas, pero el más importante es el que se encuentra en la raíz. Este documento ayuda a que los colaboradores sepan información relevante del proyecto, módulo o sección. Puedes crear cualquier archivo con la extensión .md pero solo los README.md los mostrará por defecto GitHub.
 
+- Incluye ejemplos en Window, Linux y Mac
+
 *Aporte creado por: David Behar. en Platzi*
 
 *Creado por el increible Platzi Team*
+
+*Disponible para todas las edades*
 
