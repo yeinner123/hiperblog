@@ -15,3 +15,5 @@ Este solo es una prueba que estoy haciendo para el curso profesional de Git y Gi
 
 *Creado por el increible Platzi Team*
 
+*Disponible para todas las edades*
+
